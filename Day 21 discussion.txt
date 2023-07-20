@@ -1,0 +1,60 @@
+day 21
+
+Asp.net Core 
+Day 1
+=======================================================
+css implementation in Asp.net core
+pages-created
+razor syntaxes 
+layouts 
+
+============================================================================
+Asp.net   
+   web pages 
+   user controls 
+   state management techniques
+master pages  
+ controls --server, html, login 
+   ado.net support 
+   EF support
+=========================================================
+
+Asp.net MVC
+  model view controller 
+   user controls   -- partial views 
+   state management techniques 
+   layouts    
+   html helpers 
+   ado.net support 
+   EF support 
+   Filters 
+
+Asp.net Core 
+  model view controller 
+  tag helpers 
+     asp-action
+     asp(tag)
+
+Asp.net MVC core
+   IActionResult
+   
+Asp.net core web api
+EF core 
+
+
+Latest version 
+angular js
+ember js
+vue js
+node js
+javascript 
+react js 
+  
+
+
+
+
+
+
+
+

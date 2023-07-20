@@ -1,0 +1,10 @@
+Day 23
+
+
+Entity Framework 
+
+what is EF ?
+types of approaches : 
+  1. code first
+  2. database first
+  3. model first 

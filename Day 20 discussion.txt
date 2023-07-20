@@ -1,0 +1,43 @@
+Ado.net and LINQ
+
+completed ---ado.net
+
+LINQ
+
+
+Built in interfaces : 
+   IQueryrable
+   IComparer
+   IList
+   ICollection
+   IComparable
+   IEnumerable
+   .....
+   ....
+
+Eg : IBank 
+        credit
+        debit 
+
+
+Linq : 
+   integer array
+   char  array
+   string array
+
+
+types of classes : 
+  sealed
+  partial
+  static class, methods, constructors, fields/ variables 
+  abstract 
+
+
+
+
+
+
+
+
+
+

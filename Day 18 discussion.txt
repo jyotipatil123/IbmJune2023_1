@@ -1,0 +1,19 @@
+Ado.net and LINQ
+
+===========================================
+
+Activex Data Object . net 
+
+Incluce these below namespaces : 
+using System.Data;
+   dataset, datacolumn, datatable, datarow
+using System.Data.SqlClient;
+      sqlconnection,sqldataadapter, sqldatareader, sqlcommand
+
+Data Source=LAPTOP-QTMJBBT0;Initial Catalog=ibmjune2023;Integrated Security=True
+
+Sqlconnection
+  ExecuteReader
+  ExecuteNonQuery --ins, del, update
+
+SqlCommand 
