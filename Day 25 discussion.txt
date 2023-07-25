@@ -1,0 +1,52 @@
+Day 25 
+
+Exception handling with Enterprise Library 
+
+==============================================
+
+
+Case Study : 15 days : 24th July 
+   
+E commerce website : 
+
+Database design
+   database ---tables 
+Eg: Login 
+          username , password, login_type 
+
+normalization
+---------------------------------------------------------------
+Pages design 
+      login page, home page, about us, contact us, products, bill........
+Login module : 
+     
+    Roles : Visitor
+            Administrator
+            User 
+
+Products : 
+   kitchenware , perfumes, mobile, laptops ................ 1 or 2 products 
+
+
+css , javascript, c#
+
+asp.net web pages 
+c#
+server controls, validation controls, html, login.............
+
+payment gateway : COD, net banking.......
+                  payment is successfully done. 
+
+
+=============================================================================================
+Presentation : 
+slides
+         1: name of the product 
+         2: name
+         3. software /hardware requirement
+         4. database design
+         5. pages design 
+         6. bill / total number of customers/ total sales......... 
+
+
+
